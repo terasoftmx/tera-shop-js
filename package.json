@@ -2,7 +2,7 @@
   "name": "tera-web",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://terasoft.com.mx",
+  "homepage": "https://terasoftmx.github.io/tera-shop-js/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
